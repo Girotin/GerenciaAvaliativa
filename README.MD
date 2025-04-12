@@ -28,16 +28,5 @@ Desenvolver colaborativamente um algoritmo em Portugol de Calculos Matemáticos 
 ### Gabriel Patriota
 - 
 
-
-## Comandos utilizados
-Foram utilizados comandos via terminal utilizando chave SSH do repositório,
-além de adição de permissão para modificações no repositório em núvem pelo próprio
-site do GitHub:
-### Comandos do Giroto
-
-### Comandos do Patriota
-
-### Comandos do Raizer
-
 ## Observações
 Cada etapa foi realizada por apenas um integrante por vez, respeitando a ordem de commits e a integridade do código.
