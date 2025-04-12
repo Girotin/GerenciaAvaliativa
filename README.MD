@@ -26,7 +26,11 @@ Desenvolver colaborativamente um algoritmo em Portugol de Calculos Matemáticos 
  
 
 ### Gabriel Patriota
-- 
+- Acrescentou funções de multiplicação e soma ao código
+- Atualizou o arquivo readme registrando as alterações
+- Comandos utiizados no bash foram> git clone, cd <pasta do repositório>, add, commit e push
 
 ## Observações
 Cada etapa foi realizada por apenas um integrante por vez, respeitando a ordem de commits e a integridade do código.
+Não foi necessário usar o comando "pull", pois devido a ordem sequencial e a baixíssima complexidade do código,
+apenas 3 operações de clonagem/atualização de repositório local foram feitas.
