@@ -20,7 +20,9 @@ Desenvolver colaborativamente um algoritmo em Portugol de Calculos Matemáticos 
 - Comandos utiizados no bash foram> git clone, cd <pasta do repositório>, add, commit e push
 
 ### João Pedro Raizer
-- 
+- Adicionou o código inicial do algoritmo de calculos simples
+- Atualizou o arquivo readme registrando as alterações
+- Comandos utiizados no bash foram> git clone, cd <pasta do repositório>, add, commit e push
  
 
 ### Gabriel Patriota
