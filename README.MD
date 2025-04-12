@@ -16,7 +16,8 @@ Desenvolver colaborativamente um algoritmo em Portugol de Calculos Matemáticos 
   sistemas no git:bash para iniciar as alterações
 - Adicionei os 2 outros membros pelo sistema de colaboradores do
   próprio Github
-- Commit inicial dos arquivos: "algoritmo.por" e "readme.md"
+- Commit inicial dos arquivos: "algoritmo.por" e "readme.md" pelo GIT Bash
+- Comandos utiizados no bash foram> git clone, cd <pasta do repositório>, add, commit e push
 
 ### João Pedro Raizer
 - 
